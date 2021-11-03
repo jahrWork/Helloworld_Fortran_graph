@@ -49,10 +49,8 @@
 		<Filter Name="Resource Files" Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe"/>
 		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
 		<Filter Name="dislin">
-		<File RelativePath=".\dislin\disifd_d.lib"/>
 		<File RelativePath=".\dislin\disifl_d.lib"/>
-		<File RelativePath=".\dislin\dislin_d.f90"/>
-		<File RelativePath=".\dislin\dislnc.dll"/></Filter>
+		<File RelativePath=".\dislin\dislin_d.f90"/></Filter>
 		<File RelativePath=".\Helloworld_graph.f90"/>
 		<File RelativePath=".\README.md"/></Filter>
 		<File RelativePath=".\ReadMe.txt"/></Files>
