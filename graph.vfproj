@@ -51,6 +51,7 @@
 		<Filter Name="dislin">
 		<File RelativePath=".\dislin\disifl_d.lib"/>
 		<File RelativePath=".\dislin\dislin_d.f90"/></Filter>
-		<File RelativePath=".\Helloworld_graph.f90"/></Filter>
+		<File RelativePath=".\Helloworld_graph.f90"/>
+		<File RelativePath=".\README.md"/></Filter>
 		<File RelativePath=".\ReadMe.txt"/></Files>
 	<Globals/></VisualStudioProject>
